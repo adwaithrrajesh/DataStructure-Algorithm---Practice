@@ -8,4 +8,6 @@ function linearSearch(userInp){
     return console.log('unable to find the value')
 }
 
+// Time Complexity BIG O Linear
+
 linearSearch(2)
